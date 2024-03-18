@@ -17,7 +17,6 @@ en la pantalla, y el mago debe decir las siguientes palabras: "¡Bien hecho, mug
 import random
 #generamos el numero secreto
 secret_number = random.randint(1,10)
-print(secret_number)
 print(
 """
 +================================+
