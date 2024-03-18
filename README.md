@@ -8,11 +8,16 @@ Python es un lenguaje de programación versátil y potente que permite trabajar 
  
  A continuación, se presenta una breve muestra acerca de los ejercicios que podrás encontrar:
   ## Fundamentos I 🤯:
-  * Variables
-  * Operadores
-  * Listas
-  * Tuplas
-  * Sets
+  * Variables.
+  * Operadores.
+  * Listas.
+  * Tuplas.
+  * Sets.
+
+  ## Ejercicios 👨‍💻👩‍💻
+  * Bucles.
+  * Sentencias.
+  * Otros: Ejercicios variados de diferentes temas con sus respectivos enunciados.
     
    
   
