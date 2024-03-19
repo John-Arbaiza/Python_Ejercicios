@@ -18,6 +18,9 @@ Python es un lenguaje de programación versátil y potente que permite trabajar 
   * Bucles.
   * Sentencias.
   * Otros: Ejercicios variados de diferentes temas con sus respectivos enunciados.
+  * Modulo random 🎲: proporciona funciones para generar números pseudoaleatorios.
+    Con dicho modulo podemos realizar tareas como seleccionar elementos al azar, mezclar listas,
+    generar números aleatorios entre otras funciones más.
     
    
   
