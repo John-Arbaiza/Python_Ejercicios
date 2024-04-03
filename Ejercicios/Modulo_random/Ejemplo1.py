@@ -64,4 +64,4 @@ print("Ejemplo random()")
 
 #La función random() devuelve un float comprendido entre [0.0 y 1.0)
 for i in range(6):
-    print(round(random.random(),2))
+    print(round(random.random(),3))
